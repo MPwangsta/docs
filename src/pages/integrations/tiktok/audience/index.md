@@ -49,5 +49,5 @@ It may take several hours to see data in TikTok's Ads Manager as audiences take 
 
 Setting Name | Data Type | Default Value | Description
 |---|---|---|---
-| TikTok Account Id | `string` | <unset> | The TikTok Account ID associated with your TikTok Account. Reach out to your TikTok account manager to receive your Account ID.
+| TikTok Account Id | `string` | <unset> | The TikTok Account ID associated with your TikTok Account. This account ID should be your TikTok Ad Account ID, not your Business Center ID. Reach out to your TikTok account manager to receive your Account ID.
 | TikTok Access Token | `string` | <unset> | The TikTok access token is the authorized credential for accessing the API interface. It is used by the server to authenticate API requests and can be obtained through our authorization interface.
